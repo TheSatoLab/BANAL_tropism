@@ -1,0 +1,12 @@
+species	BANAL-52	BANAL-236
+R.cornutus	11402.5	29400
+R.ferrumequinum	30300	49950
+R.shamel	133250	20550
+R.pearsonii	287.5	6987.5
+R.pusillus	6220	52925
+R.macrotis	107625	14275
+R.affinis	15660	22150
+R.sinicus	148500	27650
+Pangolin	51725	23750
+Human	555750	346250
+Hamster	28550	14750
